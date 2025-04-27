@@ -10,7 +10,7 @@ For example,
 # The data used is in the folder Data
 https://www.kaggle.com/competitions/gan-getting-started
 
-chack data/ structure
+check data/ structure
 
 # Source code 
 GAN.ipynb
